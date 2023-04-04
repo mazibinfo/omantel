@@ -1,2 +1,3 @@
 welcome omantel CI/CD
 hello
+hello2
